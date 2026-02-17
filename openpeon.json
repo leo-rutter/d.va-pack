@@ -14,9 +14,9 @@
     "session.start": {
       "sounds": [
         { "file": "sounds/annyoung.mp3", "label": "Hello in Korean" },
-        { "file": "sounds/hi", "label": "Hi!" },
-        { "file": "sounds/dva-online", "label": "D.va Online" },
-        { "file": "sounds/winky-face", "label": "Winky face!" }
+        { "file": "sounds/hi.mp3", "label": "Hi!" },
+        { "file": "sounds/dva-online.mp3", "label": "D.va Online" },
+        { "file": "sounds/winky-face.mp3", "label": "Winky face!" }
       ]
     },
     "task.acknowledge": {
@@ -32,12 +32,12 @@
       "sounds": [
         { "file": "sounds/ding.mp3", "label": "Ding" },
         { "file": "sounds/gg.mp3", "label": "GG!" },
-        { "file": "sounds/im-back-in-the-fight", "label": "I'm back in the fight!" }
+        { "file": "sounds/im-back-in-the-fight.mp3", "label": "I'm back in the fight!" }
       ]
     },
     "task.error": {
       "sounds": [
-        { "file": "sounds/need-healing", "label": "Need healing!" },
+        { "file": "sounds/need-healing.mp3", "label": "Need healing!" },
         { "file": "sounds/ejecting.mp3", "label": "Ejecting!" },
         { "file": "sounds/nerf-this.mp3", "label": "Nerf this!" }
       ]
