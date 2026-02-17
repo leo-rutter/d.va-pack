@@ -1,12 +1,12 @@
 {
   "cesp_version": "1.0",
-  "name": "diva-pack",
-  "display_name": "Diva Pack",
+  "name": "dva",
+  "display_name": "D.Va Overwatch",
   "version": "1.0.0",
   "description": "A D.Va sound pack for OpenPeon - includes Korean and English voice lines.",
   "author": {
-    "name": "Leo Chung",
-    "github": ""
+    "name": "Leo",
+    "github": "leo-rutter"
   },
   "license": "CC-BY-NC-4.0",
   "language": "en",
