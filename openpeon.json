@@ -1,0 +1,52 @@
+{
+  "cesp_version": "1.0",
+  "name": "diva-pack",
+  "display_name": "Diva Pack",
+  "version": "1.0.0",
+  "description": "A D.Va sound pack for OpenPeon - includes Korean and English voice lines.",
+  "author": {
+    "name": "Leo Chung",
+    "github": ""
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/annyoung.mp3", "label": "Hello in Korean" },
+        { "file": "sounds/hi", "label": "Hi!" },
+        { "file": "sounds/dva-online", "label": "D.va Online" },
+        { "file": "sounds/winky-face", "label": "Winky face!" }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        { "file": "sounds/got-it.mp3", "label": "Got it!" },
+        { "file": "sounds/okay.mp3", "label": "Okay!" },
+        { "file": "sounds/roger.mp3", "label": "Roger!" },
+        { "file": "sounds/kr.mp3", "label": "Wow in Korean!" },
+        { "file": "sounds/boosters-engaged.mp3", "label": "Boosters engaged!" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/ding.mp3", "label": "Ding" },
+        { "file": "sounds/gg.mp3", "label": "GG!" },
+        { "file": "sounds/im-back-in-the-fight", "label": "I'm back in the fight!" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/need-healing", "label": "Need healing!" },
+        { "file": "sounds/ejecting.mp3", "label": "Ejecting!" },
+        { "file": "sounds/nerf-this.mp3", "label": "Nerf this!" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/i-could-use-a-hand.mp3", "label": "I could use a hand!" },
+        { "file": "sounds/time-to-raise-my-apm.mp3", "label": "Time to raise my APM!" }
+      ]
+    }
+  }
+}
