@@ -13,7 +13,7 @@
   "categories": {
     "session.start": {
       "sounds": [
-        { "file": "sounds/annyoung.mp3", "label": "Hello in Korean" },
+        { "file": "sounds/annyeong.mp3", "label": "Hello in Korean" },
         { "file": "sounds/hi", "label": "Hi!" },
         { "file": "sounds/dva-online", "label": "D.va Online" },
         { "file": "sounds/winky-face", "label": "Winky face!" }
